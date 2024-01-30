@@ -1,0 +1,14 @@
+#mainChatBox{
+    padding:5px;
+    border: 2px solid black;
+    width: 98vw;
+    height: 40vw;
+}
+#mainChatBox p{
+    display: block;
+    margin: auto;
+    text-align: right;
+}
+#mainChatElements{
+    margin-top:10px;
+}
